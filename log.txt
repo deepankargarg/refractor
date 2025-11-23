@@ -1,3 +1,5 @@
+dbb8b19 Task 2.2
+5536952 Task 2.1 log.txt
 1819b9b Task 2.1
 ab55b57 Task 1.1
 b94eb61 Initial commit
